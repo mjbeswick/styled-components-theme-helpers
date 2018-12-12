@@ -1,0 +1,29 @@
+{
+  "name": "styled-components-theme-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjbeswick/styled-components-theme-helpers.git"
+  },
+  "author": "mjbeswick@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjbeswick/styled-components-theme-helpers/issues"
+  },
+  "homepage": "https://github.com/mjbeswick/styled-components-theme-helpers#readme",
+  "dependencies": {
+    "change-case": "^3.0.2",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^23.6.0"
+  }
+}
